@@ -53,9 +53,8 @@ h2 {
 .dream-area {
   background-image: url(../images/biography-bg.png);
   background-repeat: no-repeat;
-  background-position: right;
   /* border: 1px solid black; */
-  height: 80vh;
+  height: 100vh;
 }
 
 .half-width h2 {
