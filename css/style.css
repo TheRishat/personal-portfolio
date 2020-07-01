@@ -108,6 +108,11 @@ h2 {
   padding: 10px 0px;
 }
 
+.newsletter {
+  height: 50%;
+  padding-left: 45%;
+}
+
 footer p {
   text-align: center;
   font-size: 20px;
